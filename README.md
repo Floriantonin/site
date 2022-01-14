@@ -13,7 +13,7 @@
     <image src="https://img.shields.io/badge/node--js-vX-339933.svg?logo=node.js&longCache=true&style=flat">
 </a>
 <br>
-<span>Developped with : <a href="https://code.visualstudio.com/" target="_blank"><image src="https://img.shields.io/badge/Visual Studio Code-v1.53.2-007ACC.svg?logo=visual-studio-code&logoColor=007ACC&style=flat"></a></span>
+<span>Developed with : <a href="https://code.visualstudio.com/" target="_blank"><image src="https://img.shields.io/badge/Visual Studio Code-v1.53.2-007ACC.svg?logo=visual-studio-code&logoColor=007ACC&style=flat"></a></span>
 
 ## Informations
 On our site you will find :
