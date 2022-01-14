@@ -24,8 +24,8 @@ On our site you will find :
 * A dashboard with a lot of settings and a shop
 * ...
 
-## Développement
+## Development
 The site is developed in PhP with HTML5, CCS with frameworks (bulma.io and W3School) and some JS
 
-## Réseaux
+## Social networks
 [Site](https://floriantonin.be/) - [GitHub](https://github.com/Floriantonin) - [Discord](https://discord.com/invite/NPfspCw) - [YouTube](https://www.youtube.com/user/Floriantonin) - [Facebook](https://www.facebook.com/user.Floriantonin) - [Instagram](https://www.instagram.com/floriantonin/) - [Twitch](https://www.twitch.tv/floriantonin_) - [Twitter](https://twitter.com/Floriantonin410)
